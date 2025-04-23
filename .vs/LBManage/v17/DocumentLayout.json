@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\controllers\\librariancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\controllers\\librariancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\models\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\models\\suggestedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\models\\suggestedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\controllers\\suggestedbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\controllers\\suggestedbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\dtos\\suggestedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\dtos\\suggestedbookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\controllers\\issuedbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\controllers\\issuedbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\models\\issuedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\models\\issuedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\controllers\\finecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\controllers\\finecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\migrations\\20250326210124_update_year_nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\migrations\\20250326210124_update_year_nullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vishw\\AppData\\Local\\Temp\\.vsdbgsrc\\baaceef27a6c2c2c64963d3f7791fffc82f5acbdd671260a0ad97ee5a37023c6\\TemplateParser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\models\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\models\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vishw\\OneDrive\\Desktop\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250323202917_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\migrations\\20250323204759_fixednullableforeignkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\migrations\\20250323204759_fixednullableforeignkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\migrations\\20250327112236_updateissuedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\migrations\\20250327112236_updateissuedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\migrations\\20250327205828_addsuggestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\migrations\\20250327205828_addsuggestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\migrations\\20250327143638_fixissuedbookprimarykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\migrations\\20250327143638_fixissuedbookprimarykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\migrations\\20250327141952_updateissuedbookmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\migrations\\20250327141952_updateissuedbookmode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|c:\\non-drive desktop folder\\lb manaagement\\createapi\\newapi\\lbmanage\\lbmanage\\migrations\\20250405064349_addpdffieldstobooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7288586-5274-4A99-B1A9-ECF89806E595}|LBManage\\LBManage.csproj|solutionrelative:lbmanage\\migrations\\20250405064349_addpdffieldstobooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250405064349_AddPdfFieldsToBooks.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250405064349_AddPdfFieldsToBooks.cs",
+              "RelativeDocumentMoniker": "LBManage\\Migrations\\20250405064349_AddPdfFieldsToBooks.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250405064349_AddPdfFieldsToBooks.cs",
+              "RelativeToolTip": "LBManage\\Migrations\\20250405064349_AddPdfFieldsToBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:43:49.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SuggestedBookDTO.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\DTOs\\SuggestedBookDTO.cs",
+              "RelativeDocumentMoniker": "LBManage\\DTOs\\SuggestedBookDTO.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\DTOs\\SuggestedBookDTO.cs",
+              "RelativeToolTip": "LBManage\\DTOs\\SuggestedBookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:05:57.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250327205828_addSuggestions.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250327205828_addSuggestions.cs",
+              "RelativeDocumentMoniker": "LBManage\\Migrations\\20250327205828_addSuggestions.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250327205828_addSuggestions.cs",
+              "RelativeToolTip": "LBManage\\Migrations\\20250327205828_addSuggestions.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:58:28.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SuggestedBookController.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\SuggestedBookController.cs",
+              "RelativeDocumentMoniker": "LBManage\\Controllers\\SuggestedBookController.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\SuggestedBookController.cs",
+              "RelativeToolTip": "LBManage\\Controllers\\SuggestedBookController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:56:32.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SuggestedBook.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\SuggestedBook.cs",
+              "RelativeDocumentMoniker": "LBManage\\Models\\SuggestedBook.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\SuggestedBook.cs",
+              "RelativeToolTip": "LBManage\\Models\\SuggestedBook.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:49:29.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250327143638_FixIssuedBookPrimaryKey.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250327143638_FixIssuedBookPrimaryKey.cs",
+              "RelativeDocumentMoniker": "LBManage\\Migrations\\20250327143638_FixIssuedBookPrimaryKey.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250327143638_FixIssuedBookPrimaryKey.cs",
+              "RelativeToolTip": "LBManage\\Migrations\\20250327143638_FixIssuedBookPrimaryKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:36:38.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250327141952_UpdateIssuedBookMode.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250327141952_UpdateIssuedBookMode.cs",
+              "RelativeDocumentMoniker": "LBManage\\Migrations\\20250327141952_UpdateIssuedBookMode.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250327141952_UpdateIssuedBookMode.cs",
+              "RelativeToolTip": "LBManage\\Migrations\\20250327141952_UpdateIssuedBookMode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T14:19:52.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250327112236_UpdateIssuedBook.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250327112236_UpdateIssuedBook.cs",
+              "RelativeDocumentMoniker": "LBManage\\Migrations\\20250327112236_UpdateIssuedBook.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250327112236_UpdateIssuedBook.cs",
+              "RelativeToolTip": "LBManage\\Migrations\\20250327112236_UpdateIssuedBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:22:36.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TemplateParser.cs",
+              "DocumentMoniker": "C:\\Users\\vishw\\AppData\\Local\\Temp\\.vsdbgsrc\\baaceef27a6c2c2c64963d3f7791fffc82f5acbdd671260a0ad97ee5a37023c6\\TemplateParser.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\vishw\\AppData\\Local\\Temp\\.vsdbgsrc\\baaceef27a6c2c2c64963d3f7791fffc82f5acbdd671260a0ad97ee5a37023c6\\TemplateParser.cs",
+              "ToolTip": "C:\\Users\\vishw\\AppData\\Local\\Temp\\.vsdbgsrc\\baaceef27a6c2c2c64963d3f7791fffc82f5acbdd671260a0ad97ee5a37023c6\\TemplateParser.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\vishw\\AppData\\Local\\Temp\\.vsdbgsrc\\baaceef27a6c2c2c64963d3f7791fffc82f5acbdd671260a0ad97ee5a37023c6\\TemplateParser.cs [Read Only]",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwAoAAAAFAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T04:22:05.617Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250326210124_Update_Year_Nullable.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250326210124_Update_Year_Nullable.cs",
+              "RelativeDocumentMoniker": "LBManage\\Migrations\\20250326210124_Update_Year_Nullable.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250326210124_Update_Year_Nullable.cs",
+              "RelativeToolTip": "LBManage\\Migrations\\20250326210124_Update_Year_Nullable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:01:25.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LBManage\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LBManage\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:25:11.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "LBManage\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "LBManage\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T21:00:17.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LBManage\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LBManage\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:56:24.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibrarianController.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\LibrarianController.cs",
+              "RelativeDocumentMoniker": "LBManage\\Controllers\\LibrarianController.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\LibrarianController.cs",
+              "RelativeToolTip": "LBManage\\Controllers\\LibrarianController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:51:48.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\appsettings.json",
+              "RelativeDocumentMoniker": "LBManage\\appsettings.json",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\appsettings.json",
+              "RelativeToolTip": "LBManage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-23T20:22:02.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LBManage\\Models\\Book.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\Book.cs",
+              "RelativeToolTip": "LBManage\\Models\\Book.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:16:04.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Program.cs",
+              "RelativeDocumentMoniker": "LBManage\\Program.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Program.cs",
+              "RelativeToolTip": "LBManage\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAACsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:21:41.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FineController.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\FineController.cs",
+              "RelativeDocumentMoniker": "LBManage\\Controllers\\FineController.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\FineController.cs",
+              "RelativeToolTip": "LBManage\\Controllers\\FineController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:54:15.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\Librarian.cs",
+              "RelativeDocumentMoniker": "LBManage\\Models\\Librarian.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\Librarian.cs",
+              "RelativeToolTip": "LBManage\\Models\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:15:43.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IssuedBookController.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\IssuedBookController.cs",
+              "RelativeDocumentMoniker": "LBManage\\Controllers\\IssuedBookController.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\IssuedBookController.cs",
+              "RelativeToolTip": "LBManage\\Controllers\\IssuedBookController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:58:32.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\DTOs\\BookDTO.cs",
+              "RelativeDocumentMoniker": "LBManage\\DTOs\\BookDTO.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\DTOs\\BookDTO.cs",
+              "RelativeToolTip": "LBManage\\DTOs\\BookDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T21:15:51.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "LBManage\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "LBManage\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:50:51.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250323204759_FixedNullableForeignKey.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250323204759_FixedNullableForeignKey.cs",
+              "RelativeDocumentMoniker": "LBManage\\Migrations\\20250323204759_FixedNullableForeignKey.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250323204759_FixedNullableForeignKey.cs",
+              "RelativeToolTip": "LBManage\\Migrations\\20250323204759_FixedNullableForeignKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:47:59.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "LBManage\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\Reservation.cs",
+              "RelativeToolTip": "LBManage\\Models\\Reservation.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:16:52.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IssuedBook.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\IssuedBook.cs",
+              "RelativeDocumentMoniker": "LBManage\\Models\\IssuedBook.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\IssuedBook.cs",
+              "RelativeToolTip": "LBManage\\Models\\IssuedBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:16:28.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250323202917_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\vishw\\OneDrive\\Desktop\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250323202917_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\vishw\\OneDrive\\Desktop\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250323202917_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\vishw\\OneDrive\\Desktop\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250323202917_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\vishw\\OneDrive\\Desktop\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Migrations\\20250323202917_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:29:17.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LBManage\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "LBManage\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:18:58.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Fine.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\Fine.cs",
+              "RelativeDocumentMoniker": "LBManage\\Models\\Fine.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\Fine.cs",
+              "RelativeToolTip": "LBManage\\Models\\Fine.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:17:16.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "LBManage\\Models\\Student.cs",
+              "ToolTip": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\Models\\Student.cs",
+              "RelativeToolTip": "LBManage\\Models\\Student.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T20:15:14.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

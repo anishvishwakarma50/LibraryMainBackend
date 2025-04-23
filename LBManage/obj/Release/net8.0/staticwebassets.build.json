@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "19vQijaKWuUB3Gb5RYL86Xg4iDtetTAbRDxB/9HgW6M=",
+  "Source": "LBManage",
+  "BasePath": "_content/LBManage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LBManage\\wwwroot",
+      "Source": "LBManage",
+      "ContentRoot": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\wwwroot\\",
+      "BasePath": "_content/LBManage",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\wwwroot\\uploads\\6f1739f0-aa00-474f-b125-56632ec2cc48.pdf",
+      "SourceId": "LBManage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\wwwroot\\",
+      "BasePath": "_content/LBManage",
+      "RelativePath": "uploads/6f1739f0-aa00-474f-b125-56632ec2cc48#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eu6f8245i7",
+      "Integrity": "ml8hq+5vcWDp2Sq1L1ceC6dEjd8YSauTeGv/7GDFdTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\6f1739f0-aa00-474f-b125-56632ec2cc48.pdf"
+    },
+    {
+      "Identity": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\wwwroot\\uploads\\9b778168-0e36-49a6-aa9b-1b2ae672157f.pdf",
+      "SourceId": "LBManage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\wwwroot\\",
+      "BasePath": "_content/LBManage",
+      "RelativePath": "uploads/9b778168-0e36-49a6-aa9b-1b2ae672157f#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gfg3ytctow",
+      "Integrity": "7GuYuyVZRDo/nK7OY+dCX4Jw4gmumwWsQWevSr9lb3o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9b778168-0e36-49a6-aa9b-1b2ae672157f.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/6f1739f0-aa00-474f-b125-56632ec2cc48.eu6f8245i7.pdf",
+      "AssetFile": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\wwwroot\\uploads\\6f1739f0-aa00-474f-b125-56632ec2cc48.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ml8hq+5vcWDp2Sq1L1ceC6dEjd8YSauTeGv/7GDFdTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 10:46:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eu6f8245i7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/6f1739f0-aa00-474f-b125-56632ec2cc48.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ml8hq+5vcWDp2Sq1L1ceC6dEjd8YSauTeGv/7GDFdTY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/6f1739f0-aa00-474f-b125-56632ec2cc48.pdf",
+      "AssetFile": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\wwwroot\\uploads\\6f1739f0-aa00-474f-b125-56632ec2cc48.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151750"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ml8hq+5vcWDp2Sq1L1ceC6dEjd8YSauTeGv/7GDFdTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 10:46:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ml8hq+5vcWDp2Sq1L1ceC6dEjd8YSauTeGv/7GDFdTY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9b778168-0e36-49a6-aa9b-1b2ae672157f.gfg3ytctow.pdf",
+      "AssetFile": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\wwwroot\\uploads\\9b778168-0e36-49a6-aa9b-1b2ae672157f.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7GuYuyVZRDo/nK7OY+dCX4Jw4gmumwWsQWevSr9lb3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 12:16:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gfg3ytctow"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9b778168-0e36-49a6-aa9b-1b2ae672157f.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GuYuyVZRDo/nK7OY+dCX4Jw4gmumwWsQWevSr9lb3o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9b778168-0e36-49a6-aa9b-1b2ae672157f.pdf",
+      "AssetFile": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\wwwroot\\uploads\\9b778168-0e36-49a6-aa9b-1b2ae672157f.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7GuYuyVZRDo/nK7OY+dCX4Jw4gmumwWsQWevSr9lb3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 12:16:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GuYuyVZRDo/nK7OY+dCX4Jw4gmumwWsQWevSr9lb3o="
+        }
+      ]
+    }
+  ]
+}

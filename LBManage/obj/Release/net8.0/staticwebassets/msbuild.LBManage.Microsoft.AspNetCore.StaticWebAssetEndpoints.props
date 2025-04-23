@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/LBManage/uploads/6f1739f0-aa00-474f-b125-56632ec2cc48.eu6f8245i7.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6f1739f0-aa00-474f-b125-56632ec2cc48.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eu6f8245i7"},{"Name":"integrity","Value":"sha256-ml8hq\u002B5vcWDp2Sq1L1ceC6dEjd8YSauTeGv/7GDFdTY="},{"Name":"label","Value":"_content/LBManage/uploads/6f1739f0-aa00-474f-b125-56632ec2cc48.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"151750"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022ml8hq\u002B5vcWDp2Sq1L1ceC6dEjd8YSauTeGv/7GDFdTY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 10:46:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LBManage/uploads/6f1739f0-aa00-474f-b125-56632ec2cc48.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\6f1739f0-aa00-474f-b125-56632ec2cc48.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ml8hq\u002B5vcWDp2Sq1L1ceC6dEjd8YSauTeGv/7GDFdTY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"151750"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u0022ml8hq\u002B5vcWDp2Sq1L1ceC6dEjd8YSauTeGv/7GDFdTY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 14 Apr 2025 10:46:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LBManage/uploads/9b778168-0e36-49a6-aa9b-1b2ae672157f.gfg3ytctow.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9b778168-0e36-49a6-aa9b-1b2ae672157f.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gfg3ytctow"},{"Name":"integrity","Value":"sha256-7GuYuyVZRDo/nK7OY\u002BdCX4Jw4gmumwWsQWevSr9lb3o="},{"Name":"label","Value":"_content/LBManage/uploads/9b778168-0e36-49a6-aa9b-1b2ae672157f.pdf"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"89417"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00227GuYuyVZRDo/nK7OY\u002BdCX4Jw4gmumwWsQWevSr9lb3o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Apr 2025 12:16:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/LBManage/uploads/9b778168-0e36-49a6-aa9b-1b2ae672157f.pdf">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9b778168-0e36-49a6-aa9b-1b2ae672157f.pdf'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7GuYuyVZRDo/nK7OY\u002BdCX4Jw4gmumwWsQWevSr9lb3o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"89417"},{"Name":"Content-Type","Value":"application/pdf"},{"Name":"ETag","Value":"\u00227GuYuyVZRDo/nK7OY\u002BdCX4Jw4gmumwWsQWevSr9lb3o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Apr 2025 12:16:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
