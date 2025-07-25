@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LBManage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71f4ecfe20e044c644dc5dc1a6f72d59dc51eaec")]
 [assembly: System.Reflection.AssemblyProductAttribute("LBManage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LBManage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

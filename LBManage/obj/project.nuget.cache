@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0VmqWutKtSw=",
+  "dgSpecHash": "7JvlhGvKEow=",
   "success": true,
-  "projectFilePath": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\LBManage.csproj",
+  "projectFilePath": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManageMain\\LBManage\\LBManage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vishw\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\vishw\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

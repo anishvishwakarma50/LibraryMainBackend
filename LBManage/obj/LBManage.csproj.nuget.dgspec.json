@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\LBManage.csproj": {}
+    "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManageMain\\LBManage\\LBManage.csproj": {}
   },
   "projects": {
-    "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\LBManage.csproj": {
+    "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManageMain\\LBManage\\LBManage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\LBManage.csproj",
+        "projectUniqueName": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManageMain\\LBManage\\LBManage.csproj",
         "projectName": "LBManage",
-        "projectPath": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\LBManage.csproj",
+        "projectPath": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManageMain\\LBManage\\LBManage.csproj",
         "packagesPath": "C:\\Users\\vishw\\.nuget\\packages\\",
-        "outputPath": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManage\\LBManage\\obj\\",
+        "outputPath": "C:\\Non-drive Desktop Folder\\LB manaagement\\createAPI\\newAPI\\LBManageMain\\LBManage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
